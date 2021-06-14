@@ -1,0 +1,25 @@
+
+{
+    "username": "aa@m.com",
+    "password": "12xyz",
+    "sessionId":[12,22,34,56],
+     "students":[
+     {
+      "id":112,
+      "name":"aana",
+      "marks":[20,35,42],
+      "contact":[1234,3456],
+     "address":[{"state":"nc","city":"abc"},{"state":"ca","city":"xyz"}]
+     },
+     {
+      "id":115,
+      "name":"banu",
+      "marks":[30,25,22],
+      "contact":[4534,6789],
+     "address":[{"state":"lv","city":"def"},{"state":"az","city":"rst"}]
+     }
+]
+}
+
+
+
